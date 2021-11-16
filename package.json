@@ -1,0 +1,10 @@
+{
+    "name": "francis_vishnu",
+    "version": "1.0.0",
+    "bin": {
+        "francis_vishnu": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.2"
+    }
+}
