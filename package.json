@@ -1,6 +1,6 @@
 {
   "name": "francis_vishnu",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get to know francis via `npx francis`",
   "bin": {
     "francis_vishnu": "index.js"
