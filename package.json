@@ -11,5 +11,12 @@
   "keywords": [
     "francis",
     "vishnu"
-  ]
+  ],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": "FrancisWeeknd/francis",
+  "author": {
+      "name": "Francis",
+      "email": "vishnujack4@gmail.com"
+  }
 }
